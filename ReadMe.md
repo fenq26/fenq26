@@ -1,7 +1,7 @@
 # Fenq26
 Just a Dev😁
 
-Someone who experiments, builds, and understands how things work.Someone who experiments, builds, and understands how things work.
+Someone who experiments, builds, and understands how things work.
 ---
 
 ### Core Skills
