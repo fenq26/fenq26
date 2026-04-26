@@ -1,7 +1,6 @@
 # Fenq26
 
 Student like experiments, builds, and understands how things work.
-I am a newbie in competitive programming
 ---
 
 ### Core Skills
