@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pangolin&pause=1000&random=true&width=435&lines=make+shits+problems+into+less+solutions)](https://git.io/typing-svg)
+Hi, I'm Fenq. I'm a software developer who likes to experiment at home. So I'm just here to share my wild ideas and weird projects in my own repo—who knows, maybe someone will take a look. 
